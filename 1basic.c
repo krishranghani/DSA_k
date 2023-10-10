@@ -19,8 +19,7 @@ printf("\na: %d b: %d c: %d",a,b,c);
  c = a || --b;
 printf("\na: %d b: %d c: %d",a,b,c);
 
-// int a=1,b=2,c=1,d;
- 
+// int a=1,b=2,c=1,d; 
  //d  = a && b && --c;
 //printf("\na: %d b: %d c: %d d: %d",a,b,c,d);
 
