@@ -64,7 +64,6 @@ void first_delete()
         top--;
     }
 }
-
 int display()
 {
     for (int i = 0; i <= top; i++)

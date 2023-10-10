@@ -1,5 +1,4 @@
 #include<stdio.h>
-
 int main()
 {
     int a[100] , b[100] , c[200];

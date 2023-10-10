@@ -2,9 +2,7 @@
 int main ()
 {
     int a[100],i,t,n;
-
     scanf("%d",&n);
-
     for(i=0;i<n;i++){
         printf("%d = ",i);
         scanf("%d",&a[i]);

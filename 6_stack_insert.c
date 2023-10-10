@@ -35,7 +35,6 @@ int display()
         printf("%d\t", a[i]);
     }
 }
-
 int main()
 {
     printf("\n press 1 for -> insert array \n");

@@ -10,7 +10,6 @@ int main()
     printf("%d = :",i);
     scanf("%d",&a[i]);
   }
-
   t=a[0];          
   for(i=0;i<n;i++)
   {
