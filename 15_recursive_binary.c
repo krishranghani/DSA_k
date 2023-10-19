@@ -1,6 +1,5 @@
 #include <stdio.h>
 
-int Recursion_Binary_Search(int k[], int l, int h, int element);
 int Recursion_Binary_Search(int k[], int l, int h, int element)
 {
     if (l <= h)
